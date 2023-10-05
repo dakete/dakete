@@ -37,6 +37,9 @@
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kakaocorp_talk/kakaocorp_talk-icon.svg" alt="kotlin" width="40" height="40"/> </a>
     <a href="https://t.me/iwasdisabled" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 
+<br>
+<br>
+<br>
 <!-- conclusion -->
 <h3 align="center">...Conclusion...</h3>
 <p align="center">- ⌛️I continue to study useful tools, TypeScript, browser and network, patterns and back-end📚</p>
