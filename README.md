@@ -30,6 +30,11 @@
 <h1>Studied earlier</h1>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a>
+    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a>
+    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a>
+    <a href="https://ru.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://ru.legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/dakete/dakete/assets/114108107/4354dce8-9733-413c-ad54-c26f0908dd5f" alt="git" width="40" height="40"/> </a>
 
 <!-- connect -->
 <h1>Connect</h1>
