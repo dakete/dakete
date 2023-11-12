@@ -39,8 +39,8 @@
 <!-- connect -->
 <h1>Connect</h1>
     <a href="mailto:yateshido@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="gmail" width="40" height="40"></a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kakaocorp_talk/kakaocorp_talk-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-    <a href="https://t.me/iwasdisabled" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kakaocorp_talk/kakaocorp_talk-icon.svg" alt="kakaotalk" width="40" height="40"/> </a>
+    <a href="https://t.me/iwasdisabled" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/> </a>
 
 <br>
 <br>
